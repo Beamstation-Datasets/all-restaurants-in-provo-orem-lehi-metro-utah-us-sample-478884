@@ -1,6 +1,6 @@
 # All Restaurants in Provo-Orem-Lehi (Metro), Utah, US
 
-> Free BeamStation sample export with 25 rows and masked direct-contact fields.
+> Free BeamStation sample export with 120 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `478884` |
 | Location | Provo-Orem-Lehi, UT |
 | Category | Restaurants |
-| Full dataset size | 931 records |
-| Free sample size | 25 records (2.69%) |
-| Last export | 2026-03-31T13:50:15.247186+00:00 |
+| Full dataset size | 1,204 records |
+| Free sample size | 120 records (9.97%) |
+| Last export | 2026-04-14T14:19:41.231865+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-provo-orem-lehi-metro-utah-us-sample-478884/releases/download/sample-latest/beamstation_478884_restaurants-us-provooremlehiut_SAMPLE_DIST.csv) |
 
 ## What is in this sample
