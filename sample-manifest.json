@@ -1,12 +1,12 @@
 {
-  "export_job_id": "28e21dd0-7bf3-444e-b50d-7e8c26474fc2",
+  "export_job_id": "04b5039a-ec95-450f-94cc-b94d1cca50ed",
   "id_short": 478884,
-  "published_at": "2026-04-21T19:27:43Z",
+  "published_at": "2026-04-28T19:19:48Z",
   "repo_name": "all-restaurants-in-provo-orem-lehi-metro-utah-us-sample-478884",
   "sample_asset_name": "beamstation_478884_restaurants-us-provooremlehiut_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/478884/beamstation_478884_restaurants-us-provooremlehiut_SAMPLE_DIST.csv",
-  "sample_records": 98,
-  "sample_sha256": "ca80b83e3703fe1b1c4043f28e95ae54e9f5db257108bdf44fe622ecde2d54f4",
-  "sample_size_bytes": 374975,
-  "total_records": 982
+  "sample_records": 120,
+  "sample_sha256": "d7682c5042aa09c4fe04687487be7d7d89326713a1d013df3fabe0002d6d130b",
+  "sample_size_bytes": 415343,
+  "total_records": 1201
 }
